@@ -1,0 +1,1 @@
+切片：ffmpeg -i .\test2.mp4 -c:v libx264 -c:a aac -f dash output.mpd
